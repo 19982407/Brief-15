@@ -1,0 +1,13 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    min-height: calc(100vh - 240px);
+}
+
+footer {
+    background: #24292f;
+}
